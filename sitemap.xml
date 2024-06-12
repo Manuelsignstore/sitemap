@@ -1,0 +1,100 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://signstoremacon.com/</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- About Page -->
+  <url>
+    <loc>https://signstoremacon.com/about.html</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Services Page -->
+  <url>
+    <loc>https://signstoremacon.com/services.html</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Contact Page -->
+  <url>
+    <loc>https://signstoremacon.com/contact.html</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Additional Pages -->
+  <url>
+    <loc>https://signstoremacon.com/portfolio.html</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://signstoremacon.com/blog.html</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://signstoremacon.com/design.html</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://signstoremacon.com/fabrication.html</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://signstoremacon.com/installation.html</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://signstoremacon.com/service-repair.html</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://signstoremacon.com/vinyl.html</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://signstoremacon.com/led.html</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://signstoremacon.com/interior.html</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://signstoremacon.com/ada.html</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://signstoremacon.com/vehicle-graphics.html</loc>
+    <lastmod>2024-06-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- Add other important pages similarly -->
+</urlset>
